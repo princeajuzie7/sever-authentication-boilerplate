@@ -73,7 +73,11 @@ pnpm start
 
 ## Author
 
-This boilerplate was created by Prince Ajuzie.
+This boilerplate was created by - [@princeajuzie](https://bio.link/princeaj)
+
+## 🚀 About Me
+
+I'm Prince Ajuzie, a Software Engineer fron a small town :).
 
 ## License
 
