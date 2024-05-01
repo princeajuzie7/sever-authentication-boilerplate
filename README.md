@@ -15,7 +15,7 @@ Ensure you have Node.js and npm installed on your system.
 Clone this repository and navigate into the project directory.
 
 ```bash
-git clone [https://github.com/princeajuzie7/sever-authentication-boilerplate]
+git clone https://github.com/princeajuzie7/sever-authentication-boilerplate
 cd sever-authentication-boilerplate
 ```
 
